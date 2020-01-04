@@ -1,6 +1,6 @@
 {
   "name": "console-log-lahesh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An interactive command line tool to review a resume.",
   "main": "index.js",
   "scripts": {
