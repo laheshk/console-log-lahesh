@@ -8,9 +8,5 @@ Then open terminal,
 
     npx console-log-lahesh
 
-or
-
-    npm i console-log-lahesh
-
 (**npx** will run the command without installing it locally)
 
