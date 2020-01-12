@@ -1,17 +1,31 @@
 {
   "name": "console-log-lahesh",
   "version": "1.1.0",
-  "description": "An interactive command line tool to review a resume.",
+  "description": "An interactive CLI contact card.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lahesh",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laheshk/console-log-lahesh.git"
+  },
   "dependencies": {
     "inquirer": "^7.0.1"
   },
   "bin": {
-    "console-log-lahesh": "./index.js"
-  }
+    "console-log-lahesh": "index.js"
+  },
+  "keywords": [
+    "contact",
+    "CLI",
+    "terminal"
+  ],
+  "bugs": {
+    "url": "https://github.com/laheshk/console-log-lahesh/issues"
+  },
+  "homepage": "https://github.com/laheshk/console-log-lahesh#readme",
+  "devDependencies": {}
 }

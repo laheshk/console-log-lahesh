@@ -7,7 +7,7 @@ const chalk = require("chalk");
 const data = require("./data.json");
 
 // add response color
-const response = chalk.blue;
+const response = chalk.green;
 
 
 const resumeOptions = {
