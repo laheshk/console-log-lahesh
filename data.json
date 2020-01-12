@@ -1,48 +1,32 @@
 {
-    "BIO 👶": [
-        "Name: Lahesh Samarapperuma",
-        "Age: 26y",
-        "Based in Colombo, Sri Lanka"
-      ],
-    
-    "EDUCATION 🎓": [
-      "Bachelor of Design (Hons.) in Communication Design - University of Moratuwa [2013-2017]",
-      "Diploma in Information Technology (BIT) University of Colombo - School of Computing [2013-2014]"
+    "PORTFOLIO 🌎": [
+      "http://www.madebylahesh.com"
     ],
 
-    "EXPERIENCE ⭐️": [
-      "UX Specialist - noon // Oct 2017 - Present]",
-      "UX/UI Designer - Arimac // Dec 2016 - Apr 2017",
-      "Digital Developer - LEAP // Mar 2016 - Sept 2016",
-      "UX/UI Designer - Arimac // Sept 2015 - Feb 2016"
+    "INTERVIEWS 🎤": [
+      "Esperanto - https://www.esperanto.design/articles/srilanka-lahesh-kavinda/"
+        
+    ],
+    
+    "DRIBBBLE 🏀": [
+      "https://www.dribbble.com/laheshk"
+    ],
+
+    "LINKEDIN 🎓": [
+      "https://www.linkedin.com/in/lahesh/"
       
     ],
 
-    "SKILLS 🐙": [
-        "Research and Development",
-        "Product Design",
-        "UX/UI Design",
-        "Prototyping",
-        "Motion Design"
+    "TWITTER 🐦": [
+      "https://www.twitter.com/laheshk/"
+      
     ],
 
-
-    "ACHIEVEMENTS 🥇": [
-        "Young Spikes Sri Lanka - Winner [2015]",
-        "Spikes Asia Creative Academy - SL Representative [Singapore 2015]"
-        
+    "PHONE 📞": [
+      "+94719886720"
     ],
 
-    "SPEAKING && INTERVIEWS 🎤": [
-        "Fundamentals of Motion Design - Colombo SketchApp Meetup 2017 [Public Speaking]",
-        "Esperanto - https://www.esperanto.design/articles/srilanka-lahesh-kavinda/ [Interview]"
-        
-    ],
-
-    "CONTACT 📞": [
-      "Portfolio: http://www.madebylahesh.com/",
-      "mail: laheshk@gmail.com",
-      "LinkedIn: https://www.linkedin.com/in/lahesh/",
-      "Twitter: https://www.twitter.com/laheshk"
+    "MAIL 📫": [
+      "laheshk@gmail.com"
     ]
   }

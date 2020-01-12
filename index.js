@@ -7,17 +7,18 @@ const chalk = require("chalk");
 const data = require("./data.json");
 
 // add response color
-const response = chalk.bold.blue;
+const response = chalk.blue;
+
 
 const resumeOptions = {
   type: "list",
   name: "resumeOptions",
-  message: "Wanna know me a bit better? Sure",
+  message: (chalk.reset("Wanna start a cool project? Let's connect."+"\n")),
   choices: [...Object.keys(data), "Exit"]
 };
 
 function showResume() {
-  console.log("Yo! 🤟 I'm Lahesh. A Digital Product Designer from Colombo, SL.");
+  console.log(chalk.cyanBright.bold("\n"+"Yo! 🤟 I'm Lahesh. A Digital Product Designer from Colombo, SL."));
   handleResume();
 }
 
@@ -29,7 +30,7 @@ function handleResume() {
     if (options) {
       console.log(response(new inquirer.Separator()));
       options.forEach(info => {
-        console.log(response("|   - " + info));
+        console.log(response("|    " + info));
       });
       console.log(response(new inquirer.Separator()));
     }
